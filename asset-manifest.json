@@ -1,36 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.337ef8f3.chunk.css",
-    "main.js": "/static/js/main.b5924f14.chunk.js",
-    "main.js.map": "/static/js/main.b5924f14.chunk.js.map",
+    "main.css": "/static/css/main.fa1dafe8.chunk.css",
+    "main.js": "/static/js/main.a40f792f.chunk.js",
+    "main.js.map": "/static/js/main.a40f792f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58e44528.js",
     "runtime-main.js.map": "/static/js/runtime-main.58e44528.js.map",
-    "static/js/2.d5caf436.chunk.js": "/static/js/2.d5caf436.chunk.js",
-    "static/js/2.d5caf436.chunk.js.map": "/static/js/2.d5caf436.chunk.js.map",
+    "static/js/2.957363db.chunk.js": "/static/js/2.957363db.chunk.js",
+    "static/js/2.957363db.chunk.js.map": "/static/js/2.957363db.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.68145d3a156cfa0fea824d5c30fe312c.js": "/precache-manifest.68145d3a156cfa0fea824d5c30fe312c.js",
+    "precache-manifest.c932ccebc29ff4b8a2ad943675c568bd.js": "/precache-manifest.c932ccebc29ff4b8a2ad943675c568bd.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.337ef8f3.chunk.css.map": "/static/css/main.337ef8f3.chunk.css.map",
-    "static/js/2.d5caf436.chunk.js.LICENSE.txt": "/static/js/2.d5caf436.chunk.js.LICENSE.txt",
+    "static/css/main.fa1dafe8.chunk.css.map": "/static/css/main.fa1dafe8.chunk.css.map",
+    "static/js/2.957363db.chunk.js.LICENSE.txt": "/static/js/2.957363db.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Autopia-Regular.b6db5d2b.woff",
-    "static/media/JbellResume.pdf": "/static/media/JbellResume.3610405a.pdf",
+    "static/media/bell_resume.pdf": "/static/media/bell_resume.a618a34a.pdf",
     "static/media/cottage1.png": "/static/media/cottage1.8d41419e.png",
-    "static/media/cottage2.png": "/static/media/cottage2.c420b689.png",
     "static/media/denimaize.png": "/static/media/denimaize.d9bb9a6e.png",
     "static/media/git--light.svg": "/static/media/git--light.719bade0.svg",
     "static/media/git.svg": "/static/media/git.37d83fb5.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.7bff1d0a.svg",
     "static/media/plate1.png": "/static/media/plate1.8a67d044.png",
     "static/media/plate2.png": "/static/media/plate2.1ea14946.png",
-    "static/media/plate3.png": "/static/media/plate3.ead1f480.png",
     "static/media/plate4.png": "/static/media/plate4.6c5a50c7.png",
-    "static/media/plate5.png": "/static/media/plate5.e268bd0d.png",
     "static/media/plate6.png": "/static/media/plate6.a5dc131a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.58e44528.js",
-    "static/js/2.d5caf436.chunk.js",
-    "static/css/main.337ef8f3.chunk.css",
-    "static/js/main.b5924f14.chunk.js"
+    "static/js/2.957363db.chunk.js",
+    "static/css/main.fa1dafe8.chunk.css",
+    "static/js/main.a40f792f.chunk.js"
   ]
 }
